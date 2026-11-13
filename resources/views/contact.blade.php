@@ -23,7 +23,7 @@
                     <input type="text" placeholder="Enter your name"
                         class="mt-2 w-full rounded-2xl border border-[#e4d9eb] bg-[#fffafc] px-4 py-3.5 outline-none transition focus:border-[#a58bc0] focus:ring-4 focus:ring-[#eee6f8]">
                 </label>
-                <label class="text-sm font-bold">Email addressv
+                <label class="text-sm font-bold">Email address
                     <input type="email" placeholder="Enter your email"
                         class="mt-2 w-full rounded-2xl border border-[#e4d9eb] bg-[#fffafc] px-4 py-3.5 outline-none transition focus:border-[#a58bc0] focus:ring-4 focus:ring-[#eee6f8]">
                 </label>
